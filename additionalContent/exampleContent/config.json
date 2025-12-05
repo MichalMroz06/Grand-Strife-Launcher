@@ -1,5 +1,6 @@
 {
     "name": "Example Content",
     "version": "0.1",
-    "info": "Example content to test functionality"
+    "info": "Example content to test functionality",
+    "active": false
 }
