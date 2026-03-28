@@ -6,23 +6,23 @@ A launcher to manage additional content for Grand Strife games. This one is crea
 
 How to install this application with game, which is created for it.
 
-Fist, clone repo of game to your computer and enter this folder.
+First, clone repo of launcher to your computer and enter this folder.
+
+```bash
+  git clone https://github.com/MichalMroz06/Grand-Strife-Launcher.git
+  cd Grand-Strife-Launcher
+```
+
+Then, clone repo of game to your computer and enter this folder.
 
 ```bash
   git clone https://github.com/MichalMroz06/Grand-Strife-Civil-War.git
-  cd Grand-Strife-Civil-War
 ```
 After that you have repo locally on your device.
 
 In order to test before release, you have to download Godot Engine from this site: [Godot 4.0](https://godotengine.org/download/archive/4.0-stable/)
 
 After that you can open **project.godot** file and run project.
-
-For now to use this application clone repo to folder of game.
-
-```bash
-    git clone https://github.com/MichalMroz06/Grand-Strife-Launcher.git
-```
 
 And to run the aplication you have to have [Python interpreter](https://www.python.org/downloads/).
 
